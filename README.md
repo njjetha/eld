@@ -4,6 +4,10 @@ ELD is an ELF linker designed to meet the needs of embedded software projects.
 It aims to be a drop-in replacement for the GNU linker, with a smaller memory
 footprint, faster link times and a customizable link behavior.
 
+
+
+
+
 ELD supports targets Hexagon, ARM, AArch64 and RISCV
 and is designed for easy addition of more backends.
 
